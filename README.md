@@ -33,7 +33,7 @@ FlavorStack/
 
 | Area | Technology Used |
 |------|------------------|
-| Frontend | React.js, React Router, Tailwind CSS |
+| Frontend | React.js, React Router|
 | Backend | Node.js, Express.js |
 | Database | MongoDB, Mongoose |
 | Version Control | Git & GitHub |
@@ -50,18 +50,18 @@ Clone the repository and run the following commands:
 git clone https://github.com/purvapatil11/food-blog.git
 
 # Navigate into the folder
-cd flavorstack
+cd food-blog
 
 # Install dependencies
 npm install
 
 # For backend (in /server)
-cd server
+cd backend
 npm install
 npm start
 
 # For frontend (in /client)
-cd ../client
+cd frontend/food-blog
 npm install
 npm run dev
 
