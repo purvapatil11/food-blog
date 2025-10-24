@@ -47,7 +47,7 @@ Clone the repository and run the following commands:
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/flavorstack.git
+git clone https://github.com/purvapatil11/food-blog.git
 
 # Navigate into the folder
 cd flavorstack
